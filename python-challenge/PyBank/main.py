@@ -3,10 +3,6 @@ import csv
 csvpath = os.path.join('.', 'Resources', 'budget_data.csv')
 outpath = os.path.join('.', "Resources", "output_analysis.txt")
 count=0
-plchange = 0
-pl = []
-previouspl = pl
-sum_pl_change = 0
 greatestincrease = ["", 0]
 greatestdecrease = ["", 999999]
 
