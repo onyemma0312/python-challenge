@@ -1,0 +1,5 @@
+Total Months: 86
+Total Revenue: $38382578
+Average Revenue Change: $446309.05
+Greatest increase in profits:  $0
+Greatest decrease in profits:  $999999
